@@ -1,7 +1,7 @@
 ###
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
-export PATH="$PATH:$HOME/home/srhills/.local/bin/thesaurus"
+export PATH="$PATH:$HOME/home/username/.local/bin/thesaurus"
 # Path to your oh-my-zsh installation.
 #installation via script from github
 #export ZSH="/home/$USER/.oh-my-zsh"
